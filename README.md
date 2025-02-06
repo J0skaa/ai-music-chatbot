@@ -27,5 +27,5 @@ Initial Setup:
 git clone https://github.com/J0skaa/ai-music-chatbot.git
 2. Follow the individual backend and frontend setup instructions in their respective directories.
 
-License
+# License
 MIT License
