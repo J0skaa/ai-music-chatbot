@@ -1,5 +1,5 @@
 # ai-music-chatbot
-This project is an AI-powered chatbot built using the Llama open-source platform. The backend is implemented in Python, the frontend in React, and the application is deployed on AWS using the free tier.
+This project is an AI-powered chatbot. The backend is implemented in Python, the frontend in React, and the application is deployed on AWS using the free tier.
 
 # Project Structure
 
@@ -9,7 +9,7 @@ This project is an AI-powered chatbot built using the Llama open-source platform
 
 # Features
 
-AI Integration: Leveraging Llama for natural language processing.
+AI Integration: DialoGPT
 Backend: Built with Python using FastAPI.
 Frontend: Interactive user interface designed with React.
 Deployment: Hosted on AWS (free tier).
